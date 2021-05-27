@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I know basics of programming languages such as:
+### I know basics of programming languages such as:
 
+### C, C++, C#, Java, Python, HTML, CSS, JavaScript, SQL, WordPress.
 
-C, C++, C#, Java, Python, HTML, CSS, JavaScript, SQL, WordPress.
-
-With this knowledge and skills I create minimalistic, responsive websites in my free time.
+### With this knowledge and skills I create minimalistic, responsive websites in my free time.
 
 
 
